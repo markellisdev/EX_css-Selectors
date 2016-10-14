@@ -22,3 +22,33 @@ a {
 .active {
 	color: yellow;
 }
+
+.redText {
+	color: red;
+}
+
+.blueText {
+	color: blue;
+}
+
+.redBackground {
+	background-color: red;
+}
+
+.blueBackground {
+	background-color: blue;
+}
+
+#grandchild {
+	border: 1px solid black;
+	border-radius: 3px;
+}
+
+.promo {
+	color: gold;
+	font-weight: bold;
+}
+
+input {
+	height: 25px;
+}
